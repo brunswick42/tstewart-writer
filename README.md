@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there, I'm Travis. Thanks for visiting.
 <!--
 **tstewart-writer/tstewart-writer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
